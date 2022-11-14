@@ -1,4 +1,4 @@
-- 👋Hi, I’m @Ibtisam34
+👋Hi, I’m @Ibtisam34
 👀 I’m interested in working with you
 🌱 I’m currently a student at microverse learning remote software development
 💞️ I’m looking to collaborate on your projects
