@@ -1,1 +1,1 @@
-![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F335069892%2Fc7cf927f-e5f7-4f4f-a548-81f32ea87029&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fbadges-markdown&tbnid=JMOh4ttLPithQM&vet=12ahUKEwjk76LQnr_9AhVBYqQEHWnIDMkQMygFegUIARC4AQ..i&docid=ZpZGmegvggVLJM&w=1000&h=420&q=welcome%20gif%20link%20for%20readme%20github&ved=2ahUKEwjk76LQnr_9AhVBYqQEHWnIDMkQMygFegUIARC4AQ)
