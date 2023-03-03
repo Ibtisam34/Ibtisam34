@@ -1,5 +1,5 @@
-<img align="center" height="400px" width="800px" src="riyan.png">
-<h1 align="center">Hi 👋, I'm Falis Abdikani <img src=""></></h1>
+<img align="center" height="400px" width="400px" src="riyan.png">
+<h1 align="center">Hi 👋, I'm Falis Abdikani</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibtisam34&label=Profile%20views&color=0e75b6&style=flat" alt="ibtisam34" /> </p>
