@@ -1,4 +1,4 @@
-<img align="center" height="600px" width="500px" src="riyan.jpg">
+<img align="center" width="900px" src="riyan.jpg">
 <h1 align="center">Hi 👋, I'm Falis Abdikani</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 
