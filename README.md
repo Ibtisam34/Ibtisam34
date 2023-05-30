@@ -7,7 +7,7 @@
   <h1>Greetings! :wave:</h1>
   <p><span class="emoji">:dancer:</span> I'm open to collaborating on JavaScript, React, and Ruby on Rails projects.</p>
   <p>Feel free to ask me anything about web development. &#128172;</p>
-  <p><span class="emoji">:mailbox:</span> You can reach me via <a href="https://Queenjin12/your-twitter-handle" class="link">Twitter</a> and <a href="https://www.linkedin.com/in/falis-abdikani/" class="link">LinkedIn</a>.</p>
+  <p><span class="emoji">:mailbox:</span> You can reach me via <a href="https://www.twitter.com/Queenjin12" class="link">Twitter</a> and <a href="https://www.linkedin.com/in/falis-abdikani/" class="link">LinkedIn</a>.</p>
   <p><span class="emoji">:smile:</span> Pronouns: She/Her</p>
   <p><span class="emoji">:zap:</span> Fun fact: When faced with complexity, simplicity can be the remedy.</p>
   <h3 align="left">Connect with me:</h3>
