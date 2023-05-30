@@ -3,31 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-      margin: 20px;
-    }
-    h1 {
-      font-size: 24px;
-      margin-bottom: 10px;
-    }
-    p {
-      margin-bottom: 10px;
-    }
-    .emoji {
-      font-size: 20px;
-      margin-right: 5px;
-    }
-    .fun-fact {
-      font-weight: bold;
-    }
-    .link {
-      color: blue;
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <h1>Greetings! :wave:</h1>
